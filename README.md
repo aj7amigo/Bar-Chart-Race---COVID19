@@ -1,7 +1,7 @@
 # Bar Chart Race - COVID19
 Creating a Bar Chart Race for the total number of COVID19 cases reported.
 
-![Covid19 Bar Chart Race - Demo](demo/BarChartRace-Covid19.gif)
+![Covid19 Bar Chart Race - Demo](demo/BarChartRace-Covid19_HD.gif)
 
 ## Website used for fetching data
 https://ourworldindata.org/coronavirus-data
