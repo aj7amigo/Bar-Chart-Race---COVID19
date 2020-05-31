@@ -1,0 +1,2 @@
+The data in this file may not be accurate when compared to the COVID19 cases reported in other websites.<br>
+This data set is downloaded from  https://ourworldindata.org/coronavirus-data
