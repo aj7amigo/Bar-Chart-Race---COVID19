@@ -1,1 +1,2 @@
-The files to embed in readme are stored here
+The files to embed in readme is stored here as a gif file.<br>
+The video ouput file of bar_chart_race is stored here as an mp4.
